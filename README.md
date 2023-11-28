@@ -1,11 +1,11 @@
-# ✅Github Actions 과 ArgoCD 를 이용하여 CI/CD를 구축합니다. 
+## ✅Github Actions 과 ArgoCD 를 이용하여 CI/CD를 구축합니다. 
 
 ### 참고링크
 [🔗CI/CD](https://catalog.us-east-1.prod.workshops.aws/workshops/9c0aa9ab-90a9-44a6-abe1-8dff360ae428/ko-KR/110-cicd/100-cicd)
 ---
 
 ### CI/CD Pipeline입니다.
-<img src="https://github.com/tthingbini/ecommerce-workshop-src/assets/137377076/53cbfbfc-3d0f-46ca-a93a-baed378d0afe">
+<img src="https://github.com/tthingbini/ecommerce-workshop-src/assets/137377076/d3d3b462-b439-46f8-bb71-f38cde5bfd57">
 
 ## **1. ArgoCD 설치**
 
@@ -77,6 +77,6 @@ application 추가
 
 <img src="https://github.com/tthingbini/ecommerce-workshop-src/assets/137377076/4ed73b8a-2dde-4cab-b2f8-93308f22556a">
 
-### **3. LoadBalancer로 접속하면 정상적으로 배포되었음을 확인할 수 있습니다.**
+### **3. LoadBalancer로 접속 시 정상적으로 배포되었음을 확인할 수 있습니다.**
 
 <img src="https://github.com/tthingbini/ecommerce-workshop-src/assets/137377076/4c059f08-cf10-4a07-8606-19ce3812f966">
